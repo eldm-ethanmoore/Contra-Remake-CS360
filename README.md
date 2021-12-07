@@ -1,5 +1,8 @@
 # Contra-Remake-CS360
 
+The master branch contains the actual project files and the main branch contains the documentation for the project.
+This documentation includes a feasibility study, weekly progress reports, and other sprint documenatation.
+
 ## Build Instructions 
 
 To continue developent on our CS360 project you will need git and the unity editor and hub.
@@ -30,5 +33,5 @@ Make sure to add the Menu1 scene and remove the default scene by right clicking 
 
 ## Contact Me!
 Author: Ethan Moore, Aman Patel, Will Craddock   
-Email: eldm2350@protonmail.com  
+Email: eldm2350@protonmail.com, William.Craddock123@wku.edu, aman.patel689@topper.wku.edu
 Github: https://github.com/eldm-ethanmoore 
