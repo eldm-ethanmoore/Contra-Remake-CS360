@@ -22,7 +22,7 @@ Add the cloned repo to your unity hub.
 
 ![How to add cloned repo to unity hub.](Assets/Testing/BuildInstructions/UnityHowToAddClonedRepo.PNG)
 
-Click on added repo.   
+Click on ADD repo.   
 
 ![Added repo.](Assets/Testing/BuildInstructions/AddedClonedRepo.PNG)
 
